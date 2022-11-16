@@ -1,0 +1,127 @@
+@media only screen and (max-width:1024px){
+    /*Header CSS*/
+    #HeadBtnZ{
+        display: none;
+    }
+    /*MarcaPaginas*/
+    #mp{
+        display: none;
+    }
+    /*Cabecera*/
+    .cabecera{
+        width: 20%;
+        margin-left: 10px;
+    }
+    .cabecera h1{
+        font-size: small;
+        padding-left: 0px;
+        margin-left: 0%;
+    }
+
+    #MainOption{
+        margin-top: -5px;
+        margin-left: -5px;
+    }
+    /*Return Btn*/
+    .returnBtn{
+        margin-right: 0px;
+    }
+
+    .returnBtn a{
+        font-size: 25px;
+    }
+    /*Info*/
+    .infoA{
+        width: 50%;
+        margin: 0%;
+        margin-left: 0px;
+        margin-top: 50px;
+    }
+
+    .BoxZ{
+        margin-top: 20px;
+        flex-direction: column;
+    }
+
+    .infoA h1{
+        margin-left: 150px;
+    }
+
+    .infoB{
+        width: 100%;
+        margin-top: 50px;
+        margin-left: 0px;
+    }
+
+    .infoB h1{
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    #Box3{
+        display: block;
+    }
+    #b{
+        margin-right: 0px;
+    }
+    #TxtImgA, #TxtImgB, #TxtImgC, #TxtImgD, #TxtImgE, #TxtImgF{
+        margin-bottom: 20px;
+        justify-content:center;
+        padding: 0px;
+        margin-top: 0px;
+    }
+    #TxtImgA h2, #TxtImgB h2, #TxtImgC h2, #TxtImgD h2, #TxtImgE h2, #TxtImgF h2{
+        width: 100%;
+        padding: 10px;
+        background-color: rgba(255, 255, 255, 0);
+        margin: 0%;
+    }
+
+    #TxtImgA img{
+        margin-top: 0px;
+        width: 100%;
+    }
+    
+    #TxtImgB img{
+        margin-top: 0px;
+        width: 100%;
+    }
+    
+    #TxtImgC img{
+        margin-top: 0px;
+        width: 100%;
+    }
+    
+    #TxtImgD img{
+        margin-top: 0px;
+        width: 100%;
+    }
+    
+    #TxtImgE img{
+        margin-top: 0px;
+        width: 100%;
+    }
+    
+    #TxtImgF img{
+        margin-top: 0px;
+        width: 100%;
+    }
+
+    #Box1, #Box2{
+        padding: 0px;
+        width: 100%;
+        border: 4px white solid;
+        border-radius: 20px;
+        letter-spacing: 2px;
+        margin-right: 0px;
+        margin-left: 70px;
+    }
+
+    #Box1{
+        margin-bottom: 30px;
+    }
+
+    #Box3{
+        margin-top: 20px;
+    }
+}
