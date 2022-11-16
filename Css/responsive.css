@@ -34,7 +34,7 @@
     .infoA{
         width: 50%;
         margin: 0%;
-        margin-left: 0px;
+        margin-left: -20px;
         margin-top: 50px;
     }
 
@@ -108,7 +108,7 @@
     }
 
     #Box1, #Box2{
-        padding: 0px;
+        padding: 10px;
         width: 100%;
         border: 4px white solid;
         border-radius: 20px;
